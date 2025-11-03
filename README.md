@@ -1,55 +1,91 @@
-***East Brunswick Youth Track and Field Program***
+# East Brunswick Youth Track and Field Program
 
-***Ages*** 
+### **Ages**
 Elementary and Middle School
 
-***Program Summary***
-The Youth Track and Field Program of East Brunswick will be centered on the tenets of 
-sportsmanship and youth development. Athletes will be challenged in a variety of skills
-that encompass the wide world of track and field including running, jumping, agility,
-throwing, and team work.
+---
 
-"Skill is only developed by hours and hours of work."
-- Usain Bolt
+## Program Summary
 
-***Program Principles***
-**Safety**
-First, literally. Coaching plans will begin with the safety section each day. Coaches will be trained in CPR and certified. Atleast one adult with concussion training will be present and on site at all times during programming. Students *health* and *behavior* will be monitored to ensure any out of the ordinary occurences are immediately addressed by a trained staff member. Student supervision and safety will be the number 1 metric upon which the success of the program is rated before any others.
+The Youth Track and Field Program of East Brunswick is centered on the tenets of sportsmanship and youth development. Athletes will be challenged in a variety of skills that encompass the wide world of track and field, including:
 
-**Skills = Drills**
-Our goal is your child leaves a more well rounded, confident athlete. In order to achieve this, we must maximize the number of at bats each athlete gets with each drill. Coaches will deliver impactful and concise coaching points, and ensure attendees are organized and situated to attempt each drill with enough repetititions to allow for improvement and skill growth.
+*   Running
+*   Jumping
+*   Agility
+*   Throwing
+*   Teamwork
 
-**Hard Fun**
-Attendees will push themselves to maximum effort while having fun. Your athletes should come home sweaty and tired and with smiles on their faces. Coaches will incorporate a variety of developmentally appropriate games and themes ito athletic movements and endurance competitions in order to motivate, bring enthusiasm, and unlock the effort required to improve and compete.
+> **"Skill is only developed by hours and hours of work."**
+> — Usain Bolt
 
-***Coaching***
-Coaches will be held to the following standards:
-    CPR Certified
-    Attend 1hr Paid Coaching Clinic before season*
-    No Swearing
-    No Phones
-    Bring ENTHUSIASM
+---
 
-Coaches will be given a station to run each session. They will be given a clipboard and practice plan.
-Practice plan will include the safety message and warm-up for their initial group as well as the coaching points for the station they will running that day. Coaching points will include concise 1 or 2 phrase messages to repeat in order to boost the acquisition of skill mastery required for each movement in the drill.
+## Our Program Principles
 
-*1 hour paid coaching clinic will be required in order to be a paid coach. All others will have to volunteer. We will go over the practice plan 1 week before the start of the camp season.
+### 🛡️ Safety First
+Safety is our literal first priority. Coaching plans will begin with a safety message each day.
+*   All coaches will be CPR certified.
+*   At least one adult with concussion training will be on-site at all times.
+*   Student **health** and **behavior** will be monitored to ensure any unusual occurrences are immediately addressed.
+*   Student supervision and safety is the **number one metric** for the program's success.
 
-***Practice***
-Practice will take place from 9am-10:30am
+### 🏅 Skills = Drills
+Our goal is for your child to become a more well-rounded, confident athlete. To achieve this, we maximize repetitions.
+*   Coaches deliver impactful and concise coaching points.
+*   Attendees are organized to attempt each drill with enough repetitions to allow for real skill growth and improvement.
 
-Group 1(Orange): u6
-Group 2(Yellow): u8
-Group 3(Green): u10
-Group 4(Silver): u12
+### 😄 Hard Fun
+We believe in pushing to maximum effort while having a great time. Your athletes should come home sweaty, tired, and smiling.
+*   Coaches incorporate developmentally appropriate games and themed competitions.
+*   This approach motivates athletes, brings enthusiasm, and unlocks the effort required to improve and compete.
 
-Attendees will register on day 1 and recieve a shirt according to their age group. They can put their shirt over their clothes or decide to wear it next time. The color of their shirt corresponds to the group they will be with primarily. However ahtletes may be asked to work with another age group for a variety of reasons (extra skill work, social timeout, recovery, etc). Day 1 they will be introduced to the general flow of practice. The location of each station and how to transition. Additionally, coaches will get attendees times and measurements in the following events:
+---
 
-60m dash
-long jump
-100m hurdles
-400m run
-javelin throw
+## Our Coaching Standards
 
-Subsequent practices will follow a similar flow, warmups and practice plans. Each station however will be optimized to get athletes as many reps as possible before the airhorn goes off for transition.
+Coaches will be held to the highest standards to ensure a positive and effective experience.
+
+**All coaches will:**
+*   Be CPR Certified
+*   Attend a 1-Hour Paid Coaching Clinic before the season\*
+*   Maintain a professional demeanor (No Swearing)
+*   Remain engaged with athletes (No Phones)
+*   Bring ENTHUSIASM!
+
+**Coaching Structure:**
+Each coach will be assigned a station to run per session. They will be provided with a clipboard and a detailed practice plan that includes:
+*   The daily safety message and warm-up.
+*   Concise, 1-2 phrase coaching points for their station's drill.
+
+>\*The 1-hour paid coaching clinic is required to be a paid coach. All others must volunteer. The clinic will cover the practice plan one week before the camp season begins.
+
+---
+
+## Practice Information
+
+**Time:** 9:00 AM - 10:30 AM
+
+### Age Groups & Colors
+Attendees will register on Day 1 and receive a shirt according to their age group.
+
+| Group Color | Age Group |
+| :---------- | :-------- |
+| **Orange**  | U6        |
+| **Yellow**  | U8        |
+| **Green**   | U10       |
+| **Silver**  | U12       |
+
+### What to Expect
+
+*   **Day 1:** Athletes will be introduced to the general flow of practice, including the location of each station and how to transition. Coaches will also take baseline measurements in the following events:
+    *   60m Dash
+    *   Long Jump
+    *   100m Hurdles
+    *   400m Run
+    *   Javelin Throw
+
+*   **Subsequent Practices:** Will follow a similar flow with warm-ups and structured practice plans. Each station will be optimized to give athletes as many repetitions as possible before the airhorn signals a transition.
+
+---
+*Athletes may be asked to work with another age group for various reasons, such as extra skill work, social timeouts, or recovery.*
 
