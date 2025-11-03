@@ -27,7 +27,7 @@ Safety is our literal first priority. Coaching plans will begin with a safety me
 *   All coaches will be CPR certified.
 *   At least one adult with concussion training will be on-site at all times.
 *   Student **health** and **behavior** will be monitored to ensure any unusual occurrences are immediately addressed.
-*   Student supervision and safety is the **number one metric** for the program's success.
+*   Student supervision and safety is the **number one metric** by which program success is measured.
 
 ### 🏅 Skills = Drills
 Our goal is for your child to become a more well-rounded, confident athlete. To achieve this, we maximize repetitions.
