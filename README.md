@@ -66,7 +66,7 @@ Each coach will be assigned a station to run per session. They will be provided 
 **Time:** 9:00 AM - 10:30 AM
 
 ### Age Groups & Colors
-Attendees will register on Day 1 and receive a shirt according to their age group.
+Attendees will register on Day 1 and receive a shirt according to their age group.*
 
 | Group Color | Age Group |
 | :---------- | :-------- |
@@ -77,7 +77,7 @@ Attendees will register on Day 1 and receive a shirt according to their age grou
 
 ### What to Expect
 
-*   **Day 1:** Athletes will be introduced to the general flow of practice, including the location of each station and how to transition. Coaches will also take baseline measurements in the following events:
+*   **Week 1: Skills Combine** Athletes will be introduced to the general flow of practice, including the location of each station and how to transition. Coaches will also take baseline measurements and times in the following events:
     *   60m Dash
     *   Long Jump
     *   100m Hurdles
@@ -86,6 +86,8 @@ Attendees will register on Day 1 and receive a shirt according to their age grou
 
 *   **Subsequent Practices:** Will follow a similar flow with warm-ups and structured practice plans. Each station will be optimized to give athletes as many repetitions as possible before the airhorn signals a transition.
 
+*   **Week 6: Final Competition and Awards Ceremony** Athletes will be divided into 2 to 3 heats (pending number of athletes per group) against athletes of a similar level and compete in a series of events. Times will be calculated and awards will be handed out recognizing the attendees with the best effort and character as well as athletic results.
+
 ---
-*Athletes may be asked to work with another age group for various reasons, such as extra skill work, social timeouts, or recovery.*
+*Athletes may be asked to work with another age group for various reasons, such as extra skill work, social timeouts, or physical recovery.*
 
