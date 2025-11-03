@@ -35,7 +35,7 @@ Our goal is for your child to become a more well-rounded, confident athlete. To 
 *   Attendees are organized to attempt each drill with enough repetitions to allow for real skill growth and improvement.
 
 ### 😄 Hard Fun
-We believe in pushing to maximum effort while having a great time. Your athletes should come home sweaty, tired, and smiling.
+We believe in pushing to maximum effort while having a great time. Athletes should go home sweaty, tired, and smiling.
 *   Coaches incorporate developmentally appropriate games and themed competitions.
 *   This approach motivates athletes, brings enthusiasm, and unlocks the effort required to improve and compete.
 
